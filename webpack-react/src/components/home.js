@@ -1,0 +1,7 @@
+import React from 'react'
+
+let Home = (props) => {
+    return <h2> Home Page </h2>
+}
+
+export default Home;

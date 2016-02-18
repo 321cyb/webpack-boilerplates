@@ -1,0 +1,11 @@
+// See http://eslint.org/docs/user-guide/configuring.html
+{
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true,
+            "jsx": true
+        }
+    }
+}
